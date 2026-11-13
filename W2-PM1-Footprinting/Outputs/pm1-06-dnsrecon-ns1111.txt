@@ -1,0 +1,5 @@
+2026-11-12T18:21:02.025263+0500 INFO Starting enumeration for domain: networkwalks.com
+2026-11-12T18:21:02.025559+0500 INFO std: Performing General Enumeration against: networkwalks.com...
+2026-11-12T18:21:10.433519+0500 ERROR A timeout error occurred please make sure you can reach the target DNS Servers
+2026-11-12T18:21:10.434060+0500 ERROR directly and requests are not being filtered. Increase the timeout from 3.0 second
+2026-11-12T18:21:10.434249+0500 ERROR to a higher number with --lifetime <time> option.
