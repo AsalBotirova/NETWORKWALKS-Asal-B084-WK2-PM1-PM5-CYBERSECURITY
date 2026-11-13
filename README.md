@@ -11,6 +11,7 @@ The completed modules are:
 
 The repository contains project documentation, command outputs, screenshots, and the final report.
 
+
 ## Environment
 
 - Host machine: MacBook (Apple Silicon)
@@ -18,7 +19,15 @@ The repository contains project documentation, command outputs, screenshots, and
 - Operating system: Kali Linux (ARM64)
 - Lab subnet: `10.0.0.0/24`
 
+## Project Evidence
+
+- [W2-PM1 Footprinting — Screenshots](W2-PM1-Footprinting/Screenshots/)
+- [W2-PM1 Footprinting — Command Outputs](W2-PM1-Footprinting/Outputs/)
+- [W2-PM5 Network Scanning — Screenshots](W2-PM5-Network-Scanning/Screenshots/)
+- [W2-PM5 Network Scanning — Command Outputs](W2-PM5-Network-Scanning/Outputs/)
+- [W2-PM5 Network Topology](W2-PM5-Network-Scanning/Topology/)
 ---
+
 
 ## W2-PM1 — Footprinting
 
@@ -78,5 +87,8 @@ Nmap completed the scan of 256 IP addresses and reported two hosts up.
 
 ### Network Topology
 
-A network topology graphic was generated using Zenmap's Topology tab. The legend was enabled in the Zenmap view. The exported PDF contains the topology diagram.
+A network topology graphic was generated using Zenmap's Topology tab. The legend was enabled in the Zenmap interface, but it did not appear in the exported PDF. The PDF contains the topology diagram.
 
+## Conclusion
+
+During Week 2, I completed footprinting of `networkwalks.com` using six Kali Linux tools and performed host discovery on my own UTM lab network. This work helped me practice information gathering, DNS troubleshooting, network scanning, and documenting technical evidence.
