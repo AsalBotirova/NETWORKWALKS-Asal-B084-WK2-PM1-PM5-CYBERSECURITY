@@ -4,7 +4,7 @@ This folder contains the saved command-line output from the network discovery sc
 
 ## Nmap Ping Scan
 
-**File:** `07-ping-scan-results.rtf`
+**File:** [View Nmap Ping Scan Results](07-ping-scan-results.rtf)
 
 The output records the results of the host discovery scan against my own lab subnet (`10.0.0.0/24`).
 
