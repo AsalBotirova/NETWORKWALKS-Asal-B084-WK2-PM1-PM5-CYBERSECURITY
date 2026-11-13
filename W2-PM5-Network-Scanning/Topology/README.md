@@ -4,7 +4,7 @@ This folder contains the network topology generated using Zenmap during the W2-P
 
 ## Topology Diagram
 
-**File:** `graphic.pdf`
+**File:** [View Network Topology PDF](graphic.pdf)
 
 The diagram represents the two responsive hosts discovered in my UTM/Kali Linux lab network:
 
